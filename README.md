@@ -1,1 +1,3 @@
-(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badgelogo=html5logoColor=white)
+### Связь со мной:
+[![Telegram]()](https://t.me/MrCreaker)
+[![Google]()](https://www.youtube.com/channel/UCd2bpepa7w8opvqvGiQ1PJA)
