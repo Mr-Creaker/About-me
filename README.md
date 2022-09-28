@@ -1,3 +1,3 @@
 ### Связь со мной:
-[![Telegram]()](https://t.me/MrCreaker)
+[![Telegram](https://www.flaticon.com/free-icons/telegram)](https://t.me/MrCreaker)
 [![Google]()]()
